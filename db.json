@@ -1,5 +1,5 @@
 {
-  "cars": [{
+  "payload": [{
       "vehicleId": "1237001463626",
       "name": "BMW",
       "brochure": {},
