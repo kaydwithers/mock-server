@@ -1,11 +1,135 @@
 {
-  "cars": [
-    {
+  "cars": [{
       "vehicleId": "1237001463626",
       "name": "BMW",
       "brochure": {},
       "features": {},
       "specifications": {},
+      "technicalDetails": {
+        "Performance": {
+          "Engine Specification": "2.8L Double Overhead Cam, 4-cylinder, Common Rail Injection, Duramax Diesel",
+          "Transmission": "6-speed automatic transmission with Active Select",
+          "Engine Capacity": "2776",
+          "Power": "147kW @ 3600rpm (kW, ECE)",
+          "Torque": "500Nm @ 2000rpm (Nm, ECE)",
+          "Tare Weight": "2139",
+          "Number Of Cylinders": 4,
+          "GVR": 8.6,
+          "Recommended Fuel": "95 RON (PULP) or higher",
+          "Fuel Economy": "8.6L/100km fuel economy based on ADR 81/02 testing",
+          "C02 Emissions": "228 g/kw",
+          "Brakes": "4 wheel disc. Ventilated discs - front and rear",
+          "Towing Capacity": "",
+          "Servicing": "",
+          "Warranty": ""
+        },
+        "Control & Handling": {
+          "Descent Control System (DCS)": "Yes",
+          "Electronic Stability Control (ESC)": "No",
+          "Anti-lock Breaking System (ABS)": "Optional",
+          "Electronic Breakforce Distribution (EBD)": "Yes",
+          "Traction Control System (TCS)": "Yes",
+          "Break Assist (BA)": "Yes",
+          "Hill Start Assist (HSA)": "Yes",
+          "Electric Power Steering": "Yes"
+        },
+        "Wheels": {
+          "16\" Alloy Wheels": "Yes",
+          "17\" Alloy Wheels": "No",
+          "18\" Alloy Wheels": "Optional",
+          "19\" Alloy Wheels": "Yes",
+          "20\" Alloy Wheels": "Yes",
+          "21\" Alloy Wheels": "Yes",
+          "22\" Alloy Wheels": "Yes",
+          "Tyre Inflator Kit": "Yes",
+          "Full Size Steel Spare Wheel": "Yes",
+          "18\" LTZ Alloy Wheels": "Yes",
+          "19\" Black Alloy Wheels": "Yes"
+        },
+        "Safety": {
+          "Rear View Camera": "Yes",
+          "Rear Park Assist": "No",
+          "Front Park Assist": "Optional",
+          "Blind Spot Alert": "Yes",
+          "Rear Cross Traffic Alert": "Yes",
+          "Lane Departure Warning": "Yes",
+          "Following Distance Indicator": "Yes",
+          "Driver and Front Passenger Airbags": "Yes",
+          "Side Impact Airbags": "Yes",
+          "Side Curtain Airbags": "Yes",
+          "ISOFIX Child Seat Anchorage System x2": "Yes",
+          "Seat Belt Warning": "All Seats",
+          "Automatic High Beam Assist": "Yes",
+          "Airbags Included": "6"
+        },
+        "Entertainment": {
+          "Apple CarPlay & Android Auto": "No",
+          "7 inch Colour Touch Screen": "No",
+          "8 inch Colour Touch Screen": "No",
+          "Satellite Navigation": "No",
+          "Bluetooth Audio": "No",
+          "DAB Digital Radio": "Yes",
+          "6 Speaker Premium Audio": "No",
+          "iPod Connectivity": "Yes",
+          "AUX input": "No",
+          "USB Ports": "Optional"
+        },
+        "Comfort": {
+          "Panoramic Sunroof": "No",
+          "Wireless Phone Charging": "No",
+          "Active Noise Cancellation": "Yes",
+          "Remote Engine Start": "Optional",
+          "12 Volt Power Outlets": "No",
+          "Power Windows": "Yes",
+          "Air Conditioning": "No"
+        },
+        "Driver": {
+          "Advanced Park Assist": "No",
+          "Rain Sensing Wipers": "No",
+          "Leather Gear Knob": "No",
+          "Automatic Headlamps": "No",
+          "Electric Park Brake": "No",
+          "Cruise Control": "No",
+          "Trip Computer": "No",
+          "Compass Display": "No"
+        },
+        "Handling": {
+          "Hill Start Assist": "No",
+          "Electric Power Steering": "No",
+          "Brake Assist": "No",
+          "Hill Descent Control": "No",
+          "Traction Control System": "No"
+        },
+        "Exterior": {
+          "Hands Free Power Tailgate": "No",
+          "Roof Rails": "No",
+          "Heated Exterior Mirrors": "No",
+          "Front Fog Lamps": "No"
+        },
+        "Seating": {
+          "Seat Trim": "No",
+          "Heated Seats": "No",
+          "Ventilated Front Seats": "No",
+          "Lumbar Adjustment": "No",
+          "Folding Rear Seats": "No",
+          "Bucket Front Seats": "No"
+        },
+        "Security": {
+          "Cloth Seat Trim": "No",
+          "Leather Seat Trim": "No",
+          "Heated Seats": "No",
+          "Ventilated Front Seats": "No",
+          "Lumbar Adjustment": "No",
+          "Folding Rear Seats": "No",
+          "Bucket Front Seats": "No"
+        },
+        "Storage": {
+          "Sunglass Holder": "No",
+          "Under Floor Cargo Storage": "No",
+          "Rear Cargo Storage": "No",
+          "Boot Capacity": "No"
+        }
+      },
       "trims": [{}]
     },
     {
@@ -14,6 +138,131 @@
       "brochure": {},
       "features": {},
       "specifications": {},
+      "technicalDetails": {
+        "Performance": {
+          "Engine Specification": "2.8L Double Overhead Cam, 4-cylinder, Common Rail Injection, Duramax Diesel",
+          "Transmission": "6-speed automatic transmission with Active Select",
+          "Engine Capacity": "2776",
+          "Power": "147kW @ 3600rpm (kW, ECE)",
+          "Torque": "500Nm @ 2000rpm (Nm, ECE)",
+          "Tare Weight": "2139",
+          "Number Of Cylinders": 4,
+          "GVR": 8.6,
+          "Recommended Fuel": "95 RON (PULP) or higher",
+          "Fuel Economy": "8.6L/100km fuel economy based on ADR 81/02 testing",
+          "C02 Emissions": "228 g/kw",
+          "Brakes": "4 wheel disc. Ventilated discs - front and rear",
+          "Towing Capacity": "",
+          "Servicing": "",
+          "Warranty": ""
+        },
+        "Control & Handling": {
+          "Descent Control System (DCS)": "Yes",
+          "Electronic Stability Control (ESC)": "No",
+          "Anti-lock Breaking System (ABS)": "Optional",
+          "Electronic Breakforce Distribution (EBD)": "Yes",
+          "Traction Control System (TCS)": "Yes",
+          "Break Assist (BA)": "Yes",
+          "Hill Start Assist (HSA)": "Yes",
+          "Electric Power Steering": "Yes"
+        },
+        "Wheels": {
+          "16\" Alloy Wheels": "Yes",
+          "17\" Alloy Wheels": "No",
+          "18\" Alloy Wheels": "Optional",
+          "19\" Alloy Wheels": "Yes",
+          "20\" Alloy Wheels": "Yes",
+          "21\" Alloy Wheels": "Yes",
+          "22\" Alloy Wheels": "Yes",
+          "Tyre Inflator Kit": "Yes",
+          "Full Size Steel Spare Wheel": "Yes",
+          "18\" LTZ Alloy Wheels": "Yes",
+          "19\" Black Alloy Wheels": "Yes"
+        },
+        "Safety": {
+          "Rear View Camera": "Yes",
+          "Rear Park Assist": "No",
+          "Front Park Assist": "Optional",
+          "Blind Spot Alert": "Yes",
+          "Rear Cross Traffic Alert": "Yes",
+          "Lane Departure Warning": "Yes",
+          "Following Distance Indicator": "Yes",
+          "Driver and Front Passenger Airbags": "Yes",
+          "Side Impact Airbags": "Yes",
+          "Side Curtain Airbags": "Yes",
+          "ISOFIX Child Seat Anchorage System x2": "Yes",
+          "Seat Belt Warning": "All Seats",
+          "Automatic High Beam Assist": "Yes",
+          "Airbags Included": "6"
+        },
+        "Entertainment": {
+          "Apple CarPlay & Android Auto": "No",
+          "7 inch Colour Touch Screen": "No",
+          "8 inch Colour Touch Screen": "No",
+          "Satellite Navigation": "No",
+          "Bluetooth Audio": "No",
+          "DAB Digital Radio": "Yes",
+          "6 Speaker Premium Audio": "No",
+          "iPod Connectivity": "Yes",
+          "AUX input": "No",
+          "USB Ports": "Optional"
+        },
+        "Comfort": {
+          "Panoramic Sunroof": "No",
+          "Wireless Phone Charging": "No",
+          "Active Noise Cancellation": "Yes",
+          "Remote Engine Start": "Optional",
+          "12 Volt Power Outlets": "No",
+          "Power Windows": "Yes",
+          "Air Conditioning": "No"
+        },
+        "Driver": {
+          "Advanced Park Assist": "No",
+          "Rain Sensing Wipers": "No",
+          "Leather Gear Knob": "No",
+          "Automatic Headlamps": "No",
+          "Electric Park Brake": "No",
+          "Cruise Control": "No",
+          "Trip Computer": "No",
+          "Compass Display": "No"
+        },
+        "Handling": {
+          "Hill Start Assist": "No",
+          "Electric Power Steering": "No",
+          "Brake Assist": "No",
+          "Hill Descent Control": "No",
+          "Traction Control System": "No"
+        },
+        "Exterior": {
+          "Hands Free Power Tailgate": "No",
+          "Roof Rails": "No",
+          "Heated Exterior Mirrors": "No",
+          "Front Fog Lamps": "No"
+        },
+        "Seating": {
+          "Seat Trim": "No",
+          "Heated Seats": "No",
+          "Ventilated Front Seats": "No",
+          "Lumbar Adjustment": "No",
+          "Folding Rear Seats": "No",
+          "Bucket Front Seats": "No"
+        },
+        "Security": {
+          "Cloth Seat Trim": "No",
+          "Leather Seat Trim": "No",
+          "Heated Seats": "No",
+          "Ventilated Front Seats": "No",
+          "Lumbar Adjustment": "No",
+          "Folding Rear Seats": "No",
+          "Bucket Front Seats": "No"
+        },
+        "Storage": {
+          "Sunglass Holder": "No",
+          "Under Floor Cargo Storage": "No",
+          "Rear Cargo Storage": "No",
+          "Boot Capacity": "No"
+        }
+      },
       "trims": [{}]
     },
     {
@@ -22,6 +271,131 @@
       "brochure": {},
       "features": {},
       "specifications": {},
+      "technicalDetails": {
+        "Performance": {
+          "Engine Specification": "2.8L Double Overhead Cam, 4-cylinder, Common Rail Injection, Duramax Diesel",
+          "Transmission": "6-speed automatic transmission with Active Select",
+          "Engine Capacity": "2776",
+          "Power": "147kW @ 3600rpm (kW, ECE)",
+          "Torque": "500Nm @ 2000rpm (Nm, ECE)",
+          "Tare Weight": "2139",
+          "Number Of Cylinders": 4,
+          "GVR": 8.6,
+          "Recommended Fuel": "95 RON (PULP) or higher",
+          "Fuel Economy": "8.6L/100km fuel economy based on ADR 81/02 testing",
+          "C02 Emissions": "228 g/kw",
+          "Brakes": "4 wheel disc. Ventilated discs - front and rear",
+          "Towing Capacity": "",
+          "Servicing": "",
+          "Warranty": ""
+        },
+        "Control & Handling": {
+          "Descent Control System (DCS)": "Yes",
+          "Electronic Stability Control (ESC)": "No",
+          "Anti-lock Breaking System (ABS)": "Optional",
+          "Electronic Breakforce Distribution (EBD)": "Yes",
+          "Traction Control System (TCS)": "Yes",
+          "Break Assist (BA)": "Yes",
+          "Hill Start Assist (HSA)": "Yes",
+          "Electric Power Steering": "Yes"
+        },
+        "Wheels": {
+          "16\" Alloy Wheels": "Yes",
+          "17\" Alloy Wheels": "No",
+          "18\" Alloy Wheels": "Optional",
+          "19\" Alloy Wheels": "Yes",
+          "20\" Alloy Wheels": "Yes",
+          "21\" Alloy Wheels": "Yes",
+          "22\" Alloy Wheels": "Yes",
+          "Tyre Inflator Kit": "Yes",
+          "Full Size Steel Spare Wheel": "Yes",
+          "18\" LTZ Alloy Wheels": "Yes",
+          "19\" Black Alloy Wheels": "Yes"
+        },
+        "Safety": {
+          "Rear View Camera": "Yes",
+          "Rear Park Assist": "No",
+          "Front Park Assist": "Optional",
+          "Blind Spot Alert": "Yes",
+          "Rear Cross Traffic Alert": "Yes",
+          "Lane Departure Warning": "Yes",
+          "Following Distance Indicator": "Yes",
+          "Driver and Front Passenger Airbags": "Yes",
+          "Side Impact Airbags": "Yes",
+          "Side Curtain Airbags": "Yes",
+          "ISOFIX Child Seat Anchorage System x2": "Yes",
+          "Seat Belt Warning": "All Seats",
+          "Automatic High Beam Assist": "Yes",
+          "Airbags Included": "6"
+        },
+        "Entertainment": {
+          "Apple CarPlay & Android Auto": "No",
+          "7 inch Colour Touch Screen": "No",
+          "8 inch Colour Touch Screen": "No",
+          "Satellite Navigation": "No",
+          "Bluetooth Audio": "No",
+          "DAB Digital Radio": "Yes",
+          "6 Speaker Premium Audio": "No",
+          "iPod Connectivity": "Yes",
+          "AUX input": "No",
+          "USB Ports": "Optional"
+        },
+        "Comfort": {
+          "Panoramic Sunroof": "No",
+          "Wireless Phone Charging": "No",
+          "Active Noise Cancellation": "Yes",
+          "Remote Engine Start": "Optional",
+          "12 Volt Power Outlets": "No",
+          "Power Windows": "Yes",
+          "Air Conditioning": "No"
+        },
+        "Driver": {
+          "Advanced Park Assist": "No",
+          "Rain Sensing Wipers": "No",
+          "Leather Gear Knob": "No",
+          "Automatic Headlamps": "No",
+          "Electric Park Brake": "No",
+          "Cruise Control": "No",
+          "Trip Computer": "No",
+          "Compass Display": "No"
+        },
+        "Handling": {
+          "Hill Start Assist": "No",
+          "Electric Power Steering": "No",
+          "Brake Assist": "No",
+          "Hill Descent Control": "No",
+          "Traction Control System": "No"
+        },
+        "Exterior": {
+          "Hands Free Power Tailgate": "No",
+          "Roof Rails": "No",
+          "Heated Exterior Mirrors": "No",
+          "Front Fog Lamps": "No"
+        },
+        "Seating": {
+          "Seat Trim": "No",
+          "Heated Seats": "No",
+          "Ventilated Front Seats": "No",
+          "Lumbar Adjustment": "No",
+          "Folding Rear Seats": "No",
+          "Bucket Front Seats": "No"
+        },
+        "Security": {
+          "Cloth Seat Trim": "No",
+          "Leather Seat Trim": "No",
+          "Heated Seats": "No",
+          "Ventilated Front Seats": "No",
+          "Lumbar Adjustment": "No",
+          "Folding Rear Seats": "No",
+          "Bucket Front Seats": "No"
+        },
+        "Storage": {
+          "Sunglass Holder": "No",
+          "Under Floor Cargo Storage": "No",
+          "Rear Cargo Storage": "No",
+          "Boot Capacity": "No"
+        }
+      },
       "trims": [{}]
     }
   ]
